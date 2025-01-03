@@ -1,7 +1,7 @@
 # Xylogames Marketing Dashboard
 
-#THIS IS OUR FUTURE DEVELOPMENT FEATURE 
-##THAT'S WHY IT IS UNDER DEVELOPMENT...
+# THIS IS OUR FUTURE DEVELOPMENT FEATURE 
+## THAT'S WHY IT IS UNDER DEVELOPMENT...
 
 Welcome to the **Xylogames Marketing Dashboard**, a comprehensive platform for managing and optimizing marketing campaigns for games published on the Xylogames platform. This dashboard empowers the marketing team to create impactful campaigns, analyze performance metrics, and maximize ROI effectively.
 
@@ -140,4 +140,4 @@ Welcome to the **Xylogames Marketing Dashboard**, a comprehensive platform for m
 - **Localization**: Support for multiple languages for global teams.
 
 
-#FURTHER COMING SOON......😊
+# FURTHER COMING SOON......😊
